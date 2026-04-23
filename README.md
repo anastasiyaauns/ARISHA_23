@@ -1,5 +1,4 @@
-# ARISHA_23
-На День Рождения Родной
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
